@@ -6,8 +6,12 @@ on:                            # obiekt zagnieżdżony
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:                     # lista
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Show directory
         run: pwd
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
