@@ -3,7 +3,7 @@ name: Build .NET project
 on:
   workflow_dispatch:
   push:
-    branches: 
+    branches:
       - main
 
 env:
