@@ -1,0 +1,15 @@
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\bin\Release\net10.0\Warp.Actions.Demo.exe
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\bin\Release\net10.0\Warp.Actions.Demo.deps.json
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\bin\Release\net10.0\Warp.Actions.Demo.runtimeconfig.json
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\bin\Release\net10.0\Warp.Actions.Demo.dll
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\bin\Release\net10.0\Warp.Actions.Demo.pdb
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.AssemblyInfoInputs.cache
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.AssemblyInfo.cs
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.csproj.CoreCompileInputs.cache
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.sourcelink.json
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.dll
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\refint\Warp.Actions.Demo.dll
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.pdb
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\Warp.Actions.Demo.genruntimeconfig.cache
+C:\Users\s37366\Desktop\PJ\warp-07\Warp.Actions.Demo\obj\Release\net10.0\ref\Warp.Actions.Demo.dll
