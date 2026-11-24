@@ -11,7 +11,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: ./Warp.Actions.Demo
+  PROJECT_PATH: ./Warp.Actions.Demo/Warp.Actions.Demo.csproj
 
 jobs:
   build:
@@ -24,6 +24,10 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Check repository structure
+        shell: bash
+        run: bash Warp.Actions.Demo/scripts/check-repository.sh "$PROJECT_PATH"
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
