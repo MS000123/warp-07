@@ -11,7 +11,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: ./Warp.Actions.Demo.csproj
+  PROJECT_PATH: ./Warp.Actions.Demo/Warp.Actions.Demo.csproj
 
 jobs:
   build:
