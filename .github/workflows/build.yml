@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 env:
   DOTNET_VERSION: 10.0.x
@@ -33,7 +36,7 @@ jobs:
 
       - name: Build project
         shell: bash
-        run: dotnet build "$PROJECT_PATH" --no-restore
+        run: dotnet build "$PROJECT_PATH" --configuration Release --no-restore
 
       - name: Run project
         shell: bash
